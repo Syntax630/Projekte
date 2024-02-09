@@ -14,3 +14,5 @@ public $SMTPAuth = true;
 public $Username = '';
 public $Password = '';
 //public $SMTPSecure = 'tls';
+
+Sie benötigen Xampp zum öffnen und hosten der datei.
